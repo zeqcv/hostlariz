@@ -28,7 +28,7 @@
                         <div class="d-text" style="background-size: cover; background-repeat: no-repeat;">
                             <h4>{{$game->gameName}}</h4>
                             <p class="d-price"><span class="price">{{$game->gamePrice}} TL'den Başlayan fiyatlarla...</span></p>
-                            <a class="btn-main btn-fullwidth" href="pricing-table-one.html">Sipariş Ver</a>
+                            <a class="btn-main btn-fullwidth" href="/sunucu/oyun">Sipariş Ver</a>
                         </div>
                     </div>
                     <img src="{{$game->gameThumbnail}}" class="img-fluid slideInUp" alt="" data-wow-delay="0s">

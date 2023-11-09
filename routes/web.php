@@ -1,9 +1,6 @@
 <?php
 
-use App\Http\Controllers\Auth;
 use App\Http\Controllers\Controller;
-use App\Http\Controllers\ServerController;
-use App\Http\Controllers\SupportController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', [Controller::class, 'index'])->name('home');

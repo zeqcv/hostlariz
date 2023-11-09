@@ -36,7 +36,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Hostlarız Oyun ve Bilişim Hizmetleri">
 <meta name="twitter:description" content="Hostlarız Oyun ve Bilişim Hizmetleri | En iyi oyun deneyimini yaşayın.">
-<meta name="twitter:image" content="{{ asset('images/black.png') }}">
+<meta name="twitter:image" content="https://w.wallhaven.cc/full/yx/wallhaven-yxe9yk.png">
 <link rel="alternate" href="{{ asset('images/black.png') }}" hreflang="x-default">
 <meta name="twitter:label1" content="Yazar">
 <meta name="twitter:data1" content="Admin">
