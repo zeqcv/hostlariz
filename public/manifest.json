@@ -1,0 +1,39 @@
+{
+    "name": "Hostlariz Oyun Ve Bilişim Hizmetleri",
+    "short_name": "Hostlariz",
+    "start_url": "/",
+    "display": "fullscreen",
+    "background_color": "#15215a",
+    "theme_color": "#15215a",
+    "orientation": "portrait-primary",
+    "icons": [
+      {
+        "src": "images/logo.png",
+        "type": "image/png", "sizes": "72x72"
+      },
+      {
+        "src": "images/logo.png",
+        "type": "image/png", "sizes": "96x96"
+      },
+      {
+        "src": "images/logo.png",
+        "type": "image/png", "sizes": "144x144"
+      },
+      {
+        "src": "images/logo.png",
+        "type": "image/png", "sizes": "152x152"
+      },
+      {
+        "src": "images/logo.png",
+        "type": "image/png", "sizes": "180x180"
+      },
+      {
+        "src": "images/logo.png",
+        "type": "image/png", "sizes": "192x192"
+      },
+      {
+        "src": "images/logo.png",
+        "type": "image/png", "sizes": "512x512"
+      }
+    ]
+  }
